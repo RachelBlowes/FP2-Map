@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "layers": {
+    "boston_parcel": {
+      "source": "mapbox://tileset-source/rachelmb/boston_parcel-src",
+      "minzoom": 0,
+      "maxzoom": 5
+    }
+  }
+}
