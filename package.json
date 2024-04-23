@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mapbox-gl": "^3.2.0"
+    "mapbox-gl": "^3.2.0",
+    "swiper": "^11.1.1"
   }
 }
